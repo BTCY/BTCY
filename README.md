@@ -5,11 +5,16 @@
 <h3>About me</h3>
 <p>I like to create convenient, responsive, beautiful interfaces for users. I help come up with UI / UX, and then turn it into code, make it move and serve for the convenience of working with systems. Periodically join the backend to help backend-developers.</p>
  
-<h4 align="left">Connect with me:</h3> 
-📫 email: mybtcy@gmail.com
 
-<h4>My current occupation</h3>
-- Work
+<h4>My current life flow:</h3>
+<ul> 
+    <li>
+        Working in the company full-time
+        <ul>
+            <li>Leading front-end developer of a planning and forecasting system for large enterprises and factories (APS - Advanced Planning and Scheduling).</li>
+        </ul>
+    </li>
+</ul>
 
 <h4>My favorite tools now:</h3>
 <!-- CSS --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -62,6 +67,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
 
 
+<h4>Connect with me:</h3> 
+📫 email: mybtcy@gmail.com
 
 <!--
 **BTCY/BTCY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
