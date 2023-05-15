@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">I'm a frontend developer. Sometimes I help with the backend.</h3>
+<h1 align="left">Hi 👋, I'm Mike</h1>
+<h3 align="left">I'm a frontend developer. Sometimes I help with the backend.</h3>
 
-- 📫 How to reach me **mybtcy@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 email **mybtcy@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
