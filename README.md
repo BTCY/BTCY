@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike 👋</h1>
+<h1>Hi, I'm Mike! 👋</h1>
 
 <p>I'm a frontend developer. Sometimes the backend.</p>
 
@@ -12,10 +12,26 @@
         Working in the company full-time
         <ul>
             <li>Leading front-end developer of a planning and forecasting system for large enterprises and factories (APS - Advanced Planning and Scheduling).</li>
+         <li>Senior front-end developer of a manufacturing process management system (MES - Manufacturing Execution System).</li>
+        </ul>
+    </li>
+    <li>
+        I try to spend time on open source projects, new technologies and libraries.
+    </li>
+    <li>
+        Spend time on my hobbies
+        <ul>
+           <li>Sometimes it's travel</li>
+           <li>Sometimes it's music</li>
+           <li>Sometimes both together 🙂</li>
         </ul>
     </li>
 </ul>
 
+<h4>In past</h4>
+<p>Lead System Administrator. Support, creation and improvement of networks and data centers and telephony.</p>
+
+<h3>Skills</h3>
 <h4>My favorite tools now:</h3>
 <!-- CSS --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
@@ -67,7 +83,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
 
 
-<h4>Connect with me:</h3> 
+<h3>Contacts</h3> 
 📫 email: mybtcy@gmail.com
 
 <!--
