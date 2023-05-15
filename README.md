@@ -1,10 +1,17 @@
-<h1 align="left">Hi 👋, I'm Mike</h1>
-<h3 align="left">I'm a frontend developer. Sometimes I help with the backend.</h3>
-  
-<h3 align="left">Connect with me:</h3> 
-  - 📫 email: mybtcy@gmail.com
+<h1>Hi, I'm Mike 👋</h1>
 
-<h3 align="left">My favorite tools:</h3>
+<p>I'm a frontend developer. Sometimes the backend.</p>
+
+<h3>About me</h3>
+<p>I like to create convenient, responsive, beautiful interfaces for users. I help come up with UI / UX, and then turn it into code, make it move and serve for the convenience of working with systems. Periodically join the backend to help backend-developers.</p>
+ 
+<h4 align="left">Connect with me:</h3> 
+📫 email: mybtcy@gmail.com
+
+<h4>My current occupation</h3>
+- Work
+
+<h4>My favorite tools now:</h3>
 <!-- CSS --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
 <!-- HTML --><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -16,7 +23,7 @@
 <!-- TypeScript --><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 
-<h3 align="left">Other:</h3>
+<h4>Other:</h3>
 
 <!-- NodeJS --><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
