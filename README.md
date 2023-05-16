@@ -4,6 +4,7 @@
 
 <h3>About me</h3>
 <p>I like to create convenient, responsive, beautiful interfaces for users. I help come up with UI / UX, and then turn it into code, make it move and serve for the convenience of working with systems. Periodically join the backend to help backend-developers.</p>
+<p>All my life I have been interested in the creation and development of IT technologies.</p>
  
 
 <h4>Current lifeflow:</h3>
