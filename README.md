@@ -10,7 +10,7 @@
 <h4>Current lifeflow:</h3>
 <ul> 
     <li>
-        Working in the company full-time. I develop system interfaces and REST API backend for products:
+        Working in the company full-time. I develop interfaces and REST API backend for products:
         <ul>
             <li>Planning and forecasting system for large enterprises and factories (APS - Advanced Planning and Scheduling)</li>
             <li>Manufacturing process management system (MES - Manufacturing Execution System)</li>
