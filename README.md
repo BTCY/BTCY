@@ -92,7 +92,7 @@
    </tr>
 </table> 
 
-<h4>Stat</h4>
+<h4>Stats</h4>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
 
 
