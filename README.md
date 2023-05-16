@@ -32,7 +32,7 @@
 <p>Lead System Administrator. Support, creation and improvement of networks and data centers and telephony.</p>
 
 <h3>Skills</h3>
-<h4>Current main tools:</h3>
+<h4>Current main tools</h3>
 
 <!-- TypeScript --><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 
@@ -48,44 +48,44 @@
   
 <!-- Redux --><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   
-<!-- Webpack --><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<!-- Webpack --><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
 
-<h4>Other:</h4>
+<h4>Other</h4>
 <table>
   <tr>
       <td>Lib</td>
       <td>
-       <!-- NodeJS --> NodeJS, 
-       <!-- ChartJS --> ChartJS, 
-       <!-- MochaJS --> MochaJS, 
-       <!-- Express --> Express
+       <!-- NodeJS -->NodeJS, 
+       <!-- ChartJS -->ChartJS, 
+       <!-- MochaJS -->MochaJS, 
+       <!-- Express -->Express
       </td> 
    </tr>
   <tr>
       <td>Tools</td>
       <td>
-       <!-- Figma --> Figma, 
-       <!-- Git --> Git, 
-       <!-- Photoshop --> Photoshop, 
-       <!-- Postman --> Postman
+       <!-- Figma -->Figma, 
+       <!-- Git -->Git, 
+       <!-- Photoshop -->Photoshop, 
+       <!-- Postman -->Postman
       </td> 
    </tr>
   <tr>
       <td>OS</td>
       <td>
-        <!-- Linux --> Linux
+        <!-- Linux -->Linux
       </td> 
    </tr>
   <tr>
       <td>Database</td>
       <td>
-        <!-- PostgreSQL --> PostgreSQL
+        <!-- PostgreSQL -->PostgreSQL
       </td> 
    </tr>
   <tr>
       <td>Lang</td>
       <td>
-        <!-- PHP --> PHP
+        <!-- PHP -->PHP
       </td> 
    </tr>
 </table> 
