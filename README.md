@@ -44,51 +44,51 @@
 
 <!-- HTML --><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
   
-<!--  Redux  --><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>   
+<!-- Redux --><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>   
   
-<!--  VueJS  --><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
+<!-- VueJS --><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
   
-<!--  Webpack  --><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a> 
+<!-- Webpack --><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a> 
 
 <h4>Other:</h4>
-
 <table>
   <tr>
       <td>Lib</td>
       <td>
-       <!-- NodeJS --><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<!--  ChartJS  --><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
-       <!--  MochaJS  --><a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>  
-
-<!--  Express  --><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-   </td>
-  </tr>
+       <!-- NodeJS --> NodeJS 
+       <!-- ChartJS --> ChartJS 
+       <!-- MochaJS --> MochaJS 
+       <!-- Express --> Express 
+      </td> 
+   </tr>
   <tr>
       <td>Tools</td>
-      <td><!--  Figma  --><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  
-<!--  Git  --><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
-
-<!--  Photoshop  --><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
-  
-<!--  Postman  --><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
-   </td>
-  </tr>
+      <td>
+       <!-- Figma --> Figma 
+       <!-- Git --> Git 
+       <!-- Photoshop --> Photoshop 
+       <!-- Postman --> Postman 
+      </td> 
+   </tr>
   <tr>
-     <td>OS</td> 
-     <td><!--  Linux  --><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-   </td> 
- </tr>
+      <td>OS</td>
+      <td>
+        <!-- Linux --> Linux 
+      </td> 
+   </tr>
   <tr>
-     <td>Database</td> 
-     <td>
-      <!--  PostgreSQL  --><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-
-<!--  PHP  --><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-
-   </td> 
- </tr>
-</table>   
+      <td>Database</td>
+      <td>
+        <!-- PostgreSQL --> PostgreSQL 
+      </td> 
+   </tr>
+  <tr>
+      <td>Lang</td>
+      <td>
+        <!-- PHP --> PHP 
+      </td> 
+   </tr>
+</table> 
 
 <h4>Stat</h4>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
