@@ -3,9 +3,7 @@
 <p>I'm a frontend developer. Sometimes the backend.</p>
 
 <h3>About me</h3>
-<p>I like to create convenient, responsive, beautiful interfaces for users. I help come up with UI / UX, and then turn it into code, make it move and serve for the convenience of working with systems. Periodically join the backend to help backend-developers.</p>
-<p>All my life I have been interested in the creation and development of IT technologies.</p>
- 
+<p>I like to create convenient, responsive, beautiful interfaces for users. I help come up with UI / UX, and then turn it into code, make it move and serve for the convenience of working with systems. Periodically join the backend to help backend-developers.</p> 
 
 <h4>Current lifeflow:</h3>
 <ul> 
@@ -55,46 +53,45 @@
 <h4>Summary</h4>
 <table>
   <tr>
-      <td>Lib</td>
+      <td>Frontend</td>
       <td>
-       <!-- NodeJS -->NodeJS, 
-       <!-- ChartJS -->ChartJS, 
-       <!-- MochaJS -->MochaJS, 
-       <!-- Express -->Express
+          React, Redux, Mobx, Vue.js, Vuex, Typescript, JavaScript, JQuery, HTML/CSS, Webpack, Media Query, Material Ui, Bootstrap  
       </td> 
-   </tr>
+  </tr>
   <tr>
-      <td>Tools</td>
+      <td>Backend</td>
       <td>
-       <!-- Figma -->Figma, 
-       <!-- Git -->Git, 
-       <!-- Photoshop -->Photoshop, 
-       <!-- Postman -->Postman
+         Node.js, PostgreSQL, PHP
       </td> 
-   </tr>
+  </tr>
+  <tr>
+      <td>Autotests</td>
+      <td>
+         Mocha.js
+      </td> 
+  </tr>
+  <tr>
+      <td>CMS</td>
+      <td>
+         WordPress, Bitrix
+      </td> 
+  </tr> 
   <tr>
       <td>OS</td>
       <td>
-        <!-- Linux -->Linux
+         MacOS, Linux, Windows
       </td> 
-   </tr>
+  </tr>
   <tr>
-      <td>Database</td>
+      <td>Other</td>
       <td>
-        <!-- PostgreSQL -->PostgreSQL
+        Sourcetree, Git, Figma, Postman
       </td> 
-   </tr>
-  <tr>
-      <td>Lang</td>
-      <td>
-        <!-- PHP -->PHP
-      </td> 
-   </tr>
+  </tr> 
 </table> 
 
 <h4>Stats</h4>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
-
 
 <h3>Contacts</h3> 
 📫 email: mybtcy@gmail.com
