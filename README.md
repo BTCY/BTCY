@@ -53,7 +53,7 @@
   <tr>
       <td>Frontend</td>
       <td>
-          React, Redux, Mobx, Vue.js, Vuex, Typescript, JavaScript, JQuery, HTML/CSS, Webpack, Media Query, Material Ui, Bootstrap  
+          React, Redux, Mobx, Vue.js, Vuex, Typescript, JavaScript, JQuery, HTML/CSS, SCSS, LESS, Webpack, Media Query, Material Ui, Bootstrap  
       </td> 
   </tr>
   <tr>
