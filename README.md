@@ -92,5 +92,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
 
 <h3>Contacts</h3> 
-📫 email: mybtcy@gmail.com
+📫 email: <a href = "mailto: mybtcy@gmail.com" target="_blank">mybtcy@gmail.com</a>
 
