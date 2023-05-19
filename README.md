@@ -89,7 +89,9 @@
 </table> 
 
 <h4>Stats</h4>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p> -->
+
 
 <h3>Contacts</h3> 
 📫 email: <a href = "mailto: mybtcy@gmail.com" target="_blank">mybtcy@gmail.com</a>
