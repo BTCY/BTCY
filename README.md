@@ -73,13 +73,7 @@
       <td>
          WordPress, Bitrix
       </td> 
-  </tr> 
-  <tr>
-      <td>OS</td>
-      <td>
-         MacOS, Linux, Windows
-      </td> 
-  </tr>
+  </tr>  
   <tr>
       <td>Other</td>
       <td>
