@@ -66,7 +66,7 @@
   <tr>
       <td>Autotests</td>
       <td>
-         Mocha.js
+         Mocha.js, Jest.js
       </td> 
   </tr>
   <tr>
