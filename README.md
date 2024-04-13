@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mike! 👋</h1>
 
-<p>I'm a frontend developer. Sometimes the backend developer.</p>
+<p>I am a frontend developer. Sometimes I'm a backend developer.</p>
 
 <h3>About me</h3>
 <p>More than 10 years in the IT field. I like to create user-friendly, responsive, beautiful interfaces for users. I help come up with UI/UX and then turn it into code. Occasionally join backend developers to help backend developers.</p> 
