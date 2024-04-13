@@ -1,25 +1,26 @@
 <h1>Hi, I'm Mike! 👋</h1>
 
-<p>I'm a frontend developer. Sometimes the backend.</p>
+<p>I'm a frontend developer. Sometimes the backend developer.</p>
 
 <h3>About me</h3>
-<p>I like to create convenient, responsive, beautiful interfaces for users. I help come up with UI / UX, and then turn it into code, make it move and serve for the convenience of working with systems. Periodically join the backend to help backend-developers.</p> 
+<p>More than 10 years in the IT field. I like to create user-friendly, responsive, beautiful interfaces for users. I help come up with UI/UX and then turn it into code. Occasionally join backend developers to help backend developers.</p> 
 
 <h4>Current lifeflow:</h3>
 <ul> 
     <li>
-        Working in the company full-time. I develop interfaces and REST API backend for products:
+        Team lead of the front-end development team. I have development experience behind me:
         <ul>
+            <li>Admin panel for managing mail server</li>
             <li>Planning and forecasting system for large enterprises and factories (APS - Advanced Planning and Scheduling)</li>
             <li>Manufacturing process management system (MES - Manufacturing Execution System)</li>
-            <li>Projects of external customers</li>
+            <li>Online stores, dashboards and other projects for different customers.</li>
         </ul>
     </li>
     <li>
         I try to spend time on open source projects, new technologies and libraries.
     </li>
     <li>
-        Spend time on my hobbies
+        My hobbies
         <ul>
            <li>Sometimes it's travel</li>
            <li>Sometimes it's music</li>
