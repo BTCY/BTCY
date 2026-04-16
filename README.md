@@ -67,7 +67,7 @@
   </tr> 
 </table> 
 
-<h4>Stats</h4>
+<h3>Stats</h3>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p> -->
 
