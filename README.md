@@ -1,77 +1,44 @@
-<h1>Hi, I'm Mike! 👋</h1>
+# Hi, I'm Misha! 👋
 
-<p>I am a frontend developer. Sometimes I'm a backend developer.</p>
+**Software Engineer & Team Lead** focused on modern web development, developer tooling, and AI-assisted software engineering.
 
-<h3>About me</h3>
-<p>More than 10 years in the IT field. I like to create user-friendly, responsive, beautiful interfaces for users. I help come up with UI/UX and then turn it into code. Occasionally join backend developers to help backend developers.</p> 
+I have more than 15 years of professional experience in IT, with a background spanning infrastructure, system administration, frontend and backend development, and technical leadership.
 
-<h4>Current lifeflow:</h3>
-<ul> 
-    <li>
-        Team lead of the front-end development team. I have development experience behind me:
-        <ul>
-            <li>Admin panel for managing mail server</li>
-            <li>Planning and forecasting system for large enterprises and factories (APS - Advanced Planning and Scheduling)</li>
-            <li>Manufacturing process management system (MES - Manufacturing Execution System)</li>
-            <li>Online stores, dashboards and other projects for different customers.</li>
-        </ul>
-    </li>
-    <li>
-        I try to spend time on open source projects, new technologies and libraries.
-    </li>
-    <li>
-        My hobbies
-        <ul>
-           <li>Sometimes it's travel</li>
-           <li>Sometimes it's music</li>
-           <li>Sometimes both together</li>
-        </ul>
-    </li>
-</ul>
+## What I do
 
-<h4>In past</h4>
-<p>Lead System Administrator. Support, creation and improvement of networks and data centers and telephony.</p>
+Today I lead a frontend development team and work across the stack when a project needs it. I enjoy solving complex engineering problems, designing maintainable interfaces and architecture, reviewing code, and turning product requirements into reliable software.
 
-<h3>Skills</h3>
+My development experience includes:
 
-<table>
-  <tr>
-      <td>Frontend</td>
-      <td>
-          React, Redux, Mobx, Vue.js, Vuex, Typescript, JavaScript, JQuery, HTML/CSS, SCSS, LESS, Webpack, Media Query, Material Ui, Bootstrap  
-      </td> 
-  </tr>
-  <tr>
-      <td>Backend</td>
-      <td>
-         Node.js, PostgreSQL, PHP
-      </td> 
-  </tr>
-  <tr>
-      <td>Autotests</td>
-      <td>
-         Mocha.js, Jest.js
-      </td> 
-  </tr>
-  <tr>
-      <td>CMS</td>
-      <td>
-         WordPress, Bitrix
-      </td> 
-  </tr>  
-  <tr>
-      <td>Other</td>
-      <td>
-        Sourcetree, Git, Figma, Postman
-      </td> 
-  </tr> 
-</table> 
+- enterprise admin panels and internal tools;
+- planning and forecasting systems for large enterprises and manufacturing;
+- Manufacturing Execution Systems (MES);
+- e-commerce, dashboards, and customer-facing web applications.
 
-<h3>Stats</h3>
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btcy&show_icons=true&locale=en&layout=compact" alt="btcy" /></p> -->
+I'm also actively exploring **AI-assisted software engineering**: practical use of AI agents and models in development workflows, automation, testing, code review, and engineering productivity.
 
+## Background
 
-<h3>Contacts</h3> 
-📫 email: <a href = "mailto: mybtcy@gmail.com" target="_blank">mybtcy@gmail.com</a>
+Before moving into software development, I worked for many years in IT infrastructure and finished that part of my career as a **Lead System Administrator**.
 
+That experience included networks, data centers, servers, telephony, infrastructure support, and systems reliability. It still strongly influences how I approach software engineering today: I care about maintainability, observability, predictable behavior, and understanding the whole system rather than only one layer of it.
+
+## Core skills
+
+| Area | Technologies & experience |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React, HTML, CSS/SCSS, responsive UI, UI architecture |
+| Backend | Node.js, PostgreSQL, API and server-side development |
+| Engineering | Git, code review, architecture, debugging, testing, developer tooling |
+| AI-assisted development | AI coding agents, LLM-assisted workflows, development automation, evaluation and testing workflows |
+| Additional experience | Vue.js, Redux, MobX, Webpack, Jest, PHP, Figma, Postman |
+
+## Beyond code
+
+Outside of work, I'm interested in technology, AI, music, gaming, strength training, travel, art, and discovering new food.
+
+I like building things, learning how complex systems work, and experimenting with new tools when they can genuinely improve the way software is created.
+
+## Contact
+
+📫 **Email:** mybtcy@gmail.com
